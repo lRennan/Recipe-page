@@ -1,6 +1,4 @@
-Here's a simple README for your GitHub repository:
 
----
 
 # Recipe Page App
 
